@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Hoa Đỗ Quyên",
+        "desc": "Hoa đỗ quyên có màu sắc rực rỡ như đỏ, hồng, tím. Cây ưa khí hậu mát mẻ, nở rộ vào mùa xuân.",
+        "image": "doquyen.jpg"
+    },
+    {
+        "name": "Hoa Hải Đường",
+        "desc": "Hải đường là loài hoa tượng trưng cho phú quý. Cây dễ chăm, ra hoa nhiều vào dịp Tết.",
+        "image": "haiduong.jpg"
+    },
+    {
+        "name": "Hoa Mai",
+        "desc": "Hoa mai vàng là biểu tượng ngày Tết của miền Nam, mang ý nghĩa may mắn và thịnh vượng.",
+        "image": "mai.jpg"
+    },
+    {
+        "name": "Hoa Tường Vy",
+        "desc": "Tường vy có hương thơm nhẹ, hoa nở thành chùm vào mùa hè, màu hồng nổi bật và dễ trồng.",
+        "image": "tuongvy.jpg"
+    },
+    {
+        "name": "Hoa Đồng Tiền",
+        "desc": "Hoa đồng tiền thích hợp để trồng trong mùa xuân và đầu mùa hè, khi mà cường độ ánh sáng chưa quá mạnh. Cây có hoa to, nở rộ rực rỡ, lại khá dễ trồng và chăm sóc nên sẽ là lựa chọn thích hợp của bạn trong tiết trời này. Về mặt ý nghĩa, hoa đồng tiền cũng tượng trưng cho sự sung túc, tình yêu và hạnh phúc viên mãn.",
+        "image": "1764389906-dongtien.png"
+    }
+]
